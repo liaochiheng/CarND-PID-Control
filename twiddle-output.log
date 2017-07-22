@@ -1,0 +1,277 @@
+Listening to port 4567
+Connected!!!
+Twiddle # 1 ==> 0.2, 3, 0.01  best_err = 0.264796
+Connected!!!
+Twiddle # 2 ==> 0.2, 4, 0.01  best_err = 0.21369
+Connected!!!
+Twiddle # 3 [No-Better]: 0.2, 4, 0.015  err = 0.297269
+Connected!!!
+Twiddle # 4 ==> 0.2, 4, 0.005  best_err = 0.144055
+Connected!!!
+Twiddle # 5 ==> 0.31, 4, 0.005  best_err = 0.0985441
+Connected!!!
+Twiddle # 6 [No-Better]: 0.31, 5.1, 0.005  err = 0.105801
+Connected!!!
+Twiddle # 7 [No-Better]: 0.31, 2.9, 0.005  err = 0.107368
+Connected!!!
+Twiddle # 8 [No-Better]: 0.31, 4, 0.0105  err = 0.1271
+Connected!!!
+Twiddle # 9 [No-Better]: 0.31, 4, -0.0005  err = 0.599144
+Connected!!!
+Twiddle # 10 ==> 0.431, 4, 0.005  best_err = 0.0820498
+=======================
+Twiddle dp: 0.1331, 0.99, 0.00495
+=======================
+Connected!!!
+Twiddle # 11 [No-Better]: 0.431, 4.99, 0.005  err = 0.0870849
+Connected!!!
+Twiddle # 12 [No-Better]: 0.431, 3.01, 0.005  err = 0.0876442
+Connected!!!
+Twiddle # 13 [No-Better]: 0.431, 4, 0.00995  err = 0.106461
+Connected!!!
+Twiddle # 14 [No-Better]: 0.431, 4, 5e-05  err = 0.0995201
+Connected!!!
+Twiddle # 15 ==> 0.5641, 4, 0.005  best_err = 0.0722567
+Connected!!!
+Twiddle # 16 [No-Better]: 0.5641, 4.891, 0.005  err = 0.078073
+Connected!!!
+Twiddle # 17 [No-Better]: 0.5641, 3.109, 0.005  err = 0.0879273
+Connected!!!
+Twiddle # 18 [No-Better]: 0.5641, 4, 0.009455  err = 0.0742034
+Connected!!!
+Twiddle # 19 [No-Better]: 0.5641, 4, 0.000545  err = 0.0730699
+Connected!!!
+Twiddle # 20 [No-Better]: 0.71051, 4, 0.005  err = 0.075028
+=======================
+Twiddle dp: 0.14641, 0.8019, 0.0040095
+=======================
+Connected!!!
+Twiddle # 21 [No-Better]: 0.41769, 4, 0.005  err = 0.0834798
+Connected!!!
+Twiddle # 22 [No-Better]: 0.5641, 4.8019, 0.005  err = 0.079413
+Connected!!!
+Twiddle # 23 [No-Better]: 0.5641, 3.1981, 0.005  err = 0.0836164
+Connected!!!
+Twiddle # 24 [No-Better]: 0.5641, 4, 0.0090095  err = 0.0727841
+Connected!!!
+Twiddle # 25 [No-Better]: 0.5641, 4, 0.0009905  err = 0.0776652
+Connected!!!
+Twiddle # 26 [No-Better]: 0.695869, 4, 0.005  err = 0.0742923
+Connected!!!
+Twiddle # 27 [No-Better]: 0.432331, 4, 0.005  err = 0.0777461
+Connected!!!
+Twiddle # 28 [No-Better]: 0.5641, 4.72171, 0.005  err = 0.0783733
+Connected!!!
+Twiddle # 29 [No-Better]: 0.5641, 3.27829, 0.005  err = 0.084838
+Connected!!!
+Twiddle # 30 [No-Better]: 0.5641, 4, 0.00860855  err = 0.0849287
+=======================
+Twiddle dp: 0.118592, 0.649539, 0.00360855
+=======================
+Connected!!!
+Twiddle # 31 [No-Better]: 0.5641, 4, 0.00139145  err = 0.0780768
+Connected!!!
+Twiddle # 32 ==> 0.682692, 4, 0.005  best_err = 0.0720497
+Connected!!!
+Twiddle # 33 ==> 0.682692, 4.64954, 0.005  best_err = 0.0714199
+Connected!!!
+Twiddle # 34 ==> 0.682692, 4.64954, 0.00824769  best_err = 0.069965
+Connected!!!
+Twiddle # 35 ==> 0.813143, 4.64954, 0.00824769  best_err = 0.0605031
+Connected!!!
+Twiddle # 36 ==> 0.813143, 5.36403, 0.00824769  best_err = 0.0548972
+Connected!!!
+Twiddle # 37 [No-Better]: 0.813143, 5.36403, 0.0118202  err = 0.0637293
+Connected!!!
+Twiddle # 38 ==> 0.813143, 5.36403, 0.00467523  best_err = 0.0539841
+Connected!!!
+Twiddle # 39 ==> 0.95664, 5.36403, 0.00467523  best_err = 0.0497257
+Connected!!!
+Twiddle # 40 [No-Better]: 0.95664, 6.14997, 0.00467523  err = 0.061597
+=======================
+Twiddle dp: 0.157846, 0.785942, 0.00392971
+=======================
+Connected!!!
+Twiddle # 41 [No-Better]: 0.95664, 4.57809, 0.00467523  err = 0.0555246
+Connected!!!
+Twiddle # 42 [No-Better]: 0.95664, 5.36403, 0.00860494  err = 0.0655801
+Connected!!!
+Twiddle # 43 [No-Better]: 0.95664, 5.36403, 0.00074552  err = 0.0508517
+Connected!!!
+Twiddle # 44 [No-Better]: 1.11449, 5.36403, 0.00467523  err = 0.0617549
+Connected!!!
+Twiddle # 45 [No-Better]: 0.798794, 5.36403, 0.00467523  err = 0.0613979
+Connected!!!
+Twiddle # 46 ==> 0.95664, 6.07138, 0.00467523  best_err = 0.0462149
+Connected!!!
+Twiddle # 47 [No-Better]: 0.95664, 6.07138, 0.00821197  err = 0.0473044
+Connected!!!
+Twiddle # 48 [No-Better]: 0.95664, 6.07138, 0.00113849  err = 0.048101
+Connected!!!
+Twiddle # 49 ==> 1.0987, 6.07138, 0.00467523  best_err = 0.0437911
+Connected!!!
+Twiddle # 50 ==> 1.0987, 6.84946, 0.00467523  best_err = 0.0389968
+=======================
+Twiddle dp: 0.156268, 0.855891, 0.00318307
+=======================
+Connected!!!
+Twiddle # 51 [No-Better]: 1.0987, 6.84946, 0.0078583  err = 0.0394075
+Connected!!!
+Twiddle # 52 [No-Better]: 1.0987, 6.84946, 0.00149216  err = 0.0409177
+Connected!!!
+Twiddle # 53 [No-Better]: 1.25497, 6.84946, 0.00467523  err = 0.0410623
+Connected!!!
+Twiddle # 54 [No-Better]: 0.942434, 6.84946, 0.00467523  err = 0.0424403
+Connected!!!
+Twiddle # 55 [No-Better]: 1.0987, 7.70535, 0.00467523  err = 0.0451844
+Connected!!!
+Twiddle # 56 [No-Better]: 1.0987, 5.99357, 0.00467523  err = 0.0805109
+Connected!!!
+Twiddle # 57 [No-Better]: 1.0987, 6.84946, 0.00753999  err = 0.0470112
+Connected!!!
+Twiddle # 58 [No-Better]: 1.0987, 6.84946, 0.00181047  err = 0.0491714
+Connected!!!
+Twiddle # 59 [No-Better]: 1.23934, 6.84946, 0.00467523  err = 0.040992
+Connected!!!
+Twiddle # 60 [No-Better]: 0.95806, 6.84946, 0.00467523  err = 0.0440713
+=======================
+Twiddle dp: 0.126577, 0.770302, 0.00257828
+=======================
+Connected!!!
+Twiddle # 61 [No-Better]: 1.0987, 7.61976, 0.00467523  err = 0.0434052
+Connected!!!
+Twiddle # 62 [No-Better]: 1.0987, 6.07916, 0.00467523  err = 0.0441775
+Connected!!!
+Twiddle # 63 [No-Better]: 1.0987, 6.84946, 0.00725351  err = 0.0423169
+Connected!!!
+Twiddle # 64 [No-Better]: 1.0987, 6.84946, 0.00209695  err = 0.0397522
+Connected!!!
+Twiddle # 65 [No-Better]: 1.22528, 6.84946, 0.00467523  err = 0.0655981
+Connected!!!
+Twiddle # 66 [No-Better]: 0.972125, 6.84946, 0.00467523  err = 0.0462322
+Connected!!!
+Twiddle # 67 [No-Better]: 1.0987, 7.54273, 0.00467523  err = 0.0389985
+Connected!!!
+Twiddle # 68 [No-Better]: 1.0987, 6.15619, 0.00467523  err = 0.0547387
+Connected!!!
+Twiddle # 69 [No-Better]: 1.0987, 6.84946, 0.00699569  err = 0.0492429
+Connected!!!
+Twiddle # 70 [No-Better]: 1.0987, 6.84946, 0.00235478  err = 0.0443591
+=======================
+Twiddle dp: 0.113919, 0.623945, 0.00208841
+=======================
+Connected!!!
+Twiddle # 71 [No-Better]: 1.21262, 6.84946, 0.00467523  err = 0.0392436
+Connected!!!
+Twiddle # 72 [No-Better]: 0.984782, 6.84946, 0.00467523  err = 0.0394608
+Connected!!!
+Twiddle # 73 [No-Better]: 1.0987, 7.47341, 0.00467523  err = 0.0425834
+Connected!!!
+Twiddle # 74 [No-Better]: 1.0987, 6.22552, 0.00467523  err = 0.0445704
+Connected!!!
+Twiddle # 75 [No-Better]: 1.0987, 6.84946, 0.00676364  err = 0.0444707
+Connected!!!
+Twiddle # 76 [No-Better]: 1.0987, 6.84946, 0.00258682  err = 0.0408486
+Connected!!!
+Twiddle # 77 [No-Better]: 1.20123, 6.84946, 0.00467523  err = 0.048368
+Connected!!!
+Twiddle # 78 [No-Better]: 0.996174, 6.84946, 0.00467523  err = 0.0417182
+Connected!!!
+Twiddle # 79 ==> 1.0987, 7.41101, 0.00467523  best_err = 0.0375717
+Connected!!!
+Twiddle # 80 [No-Better]: 1.0987, 7.41101, 0.0065548  err = 0.0494153
+=======================
+Twiddle dp: 0.0922745, 0.617705, 0.00187957
+=======================
+Connected!!!
+Twiddle # 81 [No-Better]: 1.0987, 7.41101, 0.00279566  err = 0.0529528
+Connected!!!
+Twiddle # 82 [No-Better]: 1.19098, 7.41101, 0.00467523  err = 0.0429031
+Connected!!!
+Twiddle # 83 [No-Better]: 1.00643, 7.41101, 0.00467523  err = 0.0450669
+Connected!!!
+Twiddle # 84 [No-Better]: 1.0987, 8.02872, 0.00467523  err = 0.0393368
+Connected!!!
+Twiddle # 85 [No-Better]: 1.0987, 6.79331, 0.00467523  err = 0.0409247
+Connected!!!
+Twiddle # 86 [No-Better]: 1.0987, 7.41101, 0.00636684  err = 0.0614446
+Connected!!!
+Twiddle # 87 [No-Better]: 1.0987, 7.41101, 0.00298362  err = 0.0491256
+Connected!!!
+Twiddle # 88 [No-Better]: 1.18175, 7.41101, 0.00467523  err = 0.0378926
+Connected!!!
+Twiddle # 89 [No-Better]: 1.01565, 7.41101, 0.00467523  err = 0.0387934
+Connected!!!
+Twiddle # 90 [No-Better]: 1.0987, 7.96695, 0.00467523  err = 0.0413423
+=======================
+Twiddle dp: 0.0747423, 0.555935, 0.00152245
+=======================
+Connected!!!
+Twiddle # 91 [No-Better]: 1.0987, 6.85508, 0.00467523  err = 0.0540967
+Connected!!!
+Twiddle # 92 [No-Better]: 1.0987, 7.41101, 0.00619768  err = 0.0430096
+Connected!!!
+Twiddle # 93 [No-Better]: 1.0987, 7.41101, 0.00315278  err = 0.0403484
+Connected!!!
+Twiddle # 94 [No-Better]: 1.17344, 7.41101, 0.00467523  err = 0.0436279
+Connected!!!
+Twiddle # 95 [No-Better]: 1.02396, 7.41101, 0.00467523  err = 0.0490862
+Connected!!!
+Twiddle # 96 [No-Better]: 1.0987, 7.91135, 0.00467523  err = 0.0427783
+Connected!!!
+Twiddle # 97 [No-Better]: 1.0987, 6.91067, 0.00467523  err = 0.0499588
+Connected!!!
+Twiddle # 98 [No-Better]: 1.0987, 7.41101, 0.00604544  err = 0.04357
+Connected!!!
+Twiddle # 99 [No-Better]: 1.0987, 7.41101, 0.00330503  err = 0.0507978
+Connected!!!
+Twiddle # 100 [No-Better]: 1.16597, 7.41101, 0.00467523  err = 0.0425383
+=======================
+Twiddle dp: 0.0672681, 0.450307, 0.00123318
+=======================
+Connected!!!
+Twiddle # 101 [No-Better]: 1.03143, 7.41101, 0.00467523  err = 0.0440414
+Connected!!!
+Twiddle # 102 [No-Better]: 1.0987, 7.86132, 0.00467523  err = 0.0494376
+Connected!!!
+Twiddle # 103 [No-Better]: 1.0987, 6.96071, 0.00467523  err = 0.0402675
+Connected!!!
+Twiddle # 104 [No-Better]: 1.0987, 7.41101, 0.00590842  err = 0.040731
+Connected!!!
+Twiddle # 105 [No-Better]: 1.0987, 7.41101, 0.00344205  err = 0.0514497
+Connected!!!
+Twiddle # 106 [No-Better]: 1.15924, 7.41101, 0.00467523  err = 0.0376318
+Connected!!!
+Twiddle # 107 [No-Better]: 1.03816, 7.41101, 0.00467523  err = 0.046103
+Connected!!!
+Twiddle # 108 [No-Better]: 1.0987, 7.81629, 0.00467523  err = 0.0423625
+Connected!!!
+Twiddle # 109 [No-Better]: 1.0987, 7.00574, 0.00467523  err = 0.0451806
+Connected!!!
+Twiddle # 110 [No-Better]: 1.0987, 7.41101, 0.0057851  err = 0.0427946
+=======================
+Twiddle dp: 0.0544872, 0.364749, 0.00110987
+=======================
+Connected!!!
+Twiddle # 111 [No-Better]: 1.0987, 7.41101, 0.00356536  err = 0.039445
+Connected!!!
+Twiddle # 112 [No-Better]: 1.15319, 7.41101, 0.00467523  err = 0.0383258
+Connected!!!
+Twiddle # 113 [No-Better]: 1.04421, 7.41101, 0.00467523  err = 0.0400669
+Connected!!!
+Twiddle # 114 [No-Better]: 1.0987, 7.77576, 0.00467523  err = 0.0391454
+Connected!!!
+Twiddle # 115 [No-Better]: 1.0987, 7.04626, 0.00467523  err = 0.0477019
+Connected!!!
+Twiddle # 116 [No-Better]: 1.0987, 7.41101, 0.00567411  err = 0.0447189
+Connected!!!
+Twiddle # 117 [No-Better]: 1.0987, 7.41101, 0.00367635  err = 0.0420497
+Connected!!!
+Twiddle # 118 [No-Better]: 1.14774, 7.41101, 0.00467523  err = 0.0422899
+Connected!!!
+Twiddle # 119 [No-Better]: 1.04966, 7.41101, 0.00467523  err = 0.0396502
+Connected!!!
+Twiddle # 120 [No-Better]: 1.0987, 7.73929, 0.00467523  err = 0.0390467
+=======================
+Twiddle dp: 0.0441346, 0.328274, 0.000898992
+=======================
